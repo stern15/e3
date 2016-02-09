@@ -2,4 +2,19 @@
     background-image: url("/Users/semasuka/e3/img/hero.jpg");
     background-size: cover;
     height: 75%;
+    color: white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.logo{
+    padding-left:15%;
+    padding-top: 15%;
+}
+
+.home{
+    text-align: center;
 }
