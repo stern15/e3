@@ -1,3 +1,5 @@
-.first second{
-    background-image:url()
+.container{
+    background-image: url("/Users/semasuka/e3/img/hero.jpg");
+    background-size: cover;
+    background-color: aquamarine;
 }
