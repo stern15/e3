@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/*--------------------section 1---------------------*/
 .section1{
     background-image: url("/Users/semasuka/e3/img/hero.jpg");
     background-size: cover;
@@ -31,4 +36,8 @@ a:hover{
 .mouse_click{
     padding-top: 30%;
     padding-left: 52%;
+}
+/*--------------------section 2---------------------*/
+.section2{
+    background-color: #b2ad89;
 }
