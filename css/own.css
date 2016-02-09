@@ -8,13 +8,13 @@ a{
     color: white;
 }
 a:hover{
-    color: white;
+    color:#c4ba7c;
 }
 .logo{
     padding-left:15%;
     padding-top: 15%;
 }
-
-.home{
-    text-align: center;
+.navbar{
+    padding-top: 6%;
 }
+.
