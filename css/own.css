@@ -1,105 +1,128 @@
-body{
+body {
     background-color: black;
     font-family: 'Source Sans Pro', sans-serif;
 }
+
 /*--------------------section 1---------------------*/
-.section1{
+
+.section1 {
     background-image: url("/Users/semasuka/e3/img/hero.jpg");
     background-size: cover;
     height: 78%;
     color: white;
 }
-a{
+a {
     color: white;
 }
-a:hover{
-    color:#c4ba7c;
+a:hover {
+    color: #c4ba7c;
 }
-.logo{
-    padding-left:15%;
+.logo {
+    padding-left: 15%;
     padding-top: 15%;
 }
-.navbar{
+.navbar {
     padding-top: 6%;
 }
-.introtext{
+.introtext {
     padding-top: 20%;
     padding-left: 9%;
     font-size: 55px;
 }
-.intropar{
+.intropar {
     text-align: center;
     padding-top: 3%;
     padding-left: 10%;
     font-size: 22px;
 }
-.mouse_click{
+.mouse_click {
     padding-top: 30%;
     padding-left: 52%;
 }
+
 /*--------------------section 2---------------------*/
-.section2{
+
+.section2 {
     background-color: #b2ad89;
     height: 10%;
 }
-.cheWrapper{
+.cheWrapper {
     padding-left: 35%;
     padding-top: 7%;
 }
-.button{
+.button {
     margin-top: 10%;
-    border:solid 2px #6c1717;
+    border: solid 2px #6c1717;
     text-transform: uppercase;
     background-color: #6c1717;
 }
-.button:hover{
+.button:hover {
     background-color: #6c1717;
 }
+
 /*--------------------section 3----------------------*/
-.section3{
+
+.section3 {
     background-color: white;
     height: 20%;
     padding-right: 10%;
     padding-top: 3%;
 }
-.men{
+.men {
     margin-top: 3%;
     padding-left: 12%;
 }
-.line{
+.line {
     margin-top: 2.5%;
-    
 }
-.pageno{
+.pageno {
     float: right;
     color: #b2ad89;
     font-weight: bold;
 }
-.left{
+.left {
     color: #b2ad89;
 }
-.right{
+.right {
     color: #b2ad89;
 }
+
 /*--------------------section 4--------------------------*/
-.section4{
+
+.section4 {
     background-color: white;
     padding-left: 10%;
     padding-right: 11%;
     height: 40%;
 }
-.tshirt{
+.tshirt {
     background-color: #f2f2f2;
     width: 30%;
     margin-left: 1%;
     padding-left: 7%;
     padding-top: 7%;
-    padding-bottom: 11.6%;
+    padding-bottom: 9%;
 }
-.tshirt:hover{
+.tshirt:hover {
     border: 5px solid #b2ad89;
 }
-.pants{
+.size {
+    margin-top: -25%;
+    margin-left: -18%;
+    font-size: 25px;
+}
+.tshirt a{
+    color: black;
+}
+.blue {
+    width: 20px;
+    height: 20px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+.pants {
     background-color: #f2f2f2;
     margin-left: 4%;
     padding-left: 9%;
@@ -107,10 +130,10 @@ a:hover{
     padding-bottom: 7%;
     width: 30%;
 }
-.pants:hover{
+.pants:hover {
     border: 5px solid #b2ad89;
 }
-.backpack{
+.backpack {
     background-color: #f2f2f2;
     width: 30%;
     margin-left: 4%;
@@ -118,6 +141,6 @@ a:hover{
     padding-top: 7%;
     padding-bottom: 9.28%;
 }
-.backpack:hover{
+.backpack:hover {
     border: 5px solid #b2ad89;
 }
