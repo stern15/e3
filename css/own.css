@@ -56,3 +56,21 @@ a:hover{
     background-color: #6c1717;
 }
 /*--------------------section 3----------------------*/
+.section3{
+    background-color: white;
+    height: 18%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+.men{
+    margin-top: 3%;
+    padding-left: 12%;
+}
+.line{
+    margin-top: 2.5%;
+    
+}
+.pageno{
+    float: right;
+    color: #b2ad89;
+}
