@@ -40,7 +40,9 @@ a:hover{
 /*--------------------section 2---------------------*/
 .section2{
     background-color: #b2ad89;
+    height: 10%;
 }
-.chechbox{
-    
+.cheWrapper{
+    padding-left: 35%;
+    padding-top: 7%;
 }
