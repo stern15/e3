@@ -58,7 +58,7 @@ a:hover{
 /*--------------------section 3----------------------*/
 .section3{
     background-color: white;
-    height: 18%;
+    height: 20%;
     padding-right: 10%;
     padding-top: 3%;
 }
@@ -72,5 +72,12 @@ a:hover{
 }
 .pageno{
     float: right;
+    color: #b2ad89;
+    font-weight: bold;
+}
+.left{
+    color: #b2ad89;
+}
+.right{
     color: #b2ad89;
 }
