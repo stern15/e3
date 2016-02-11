@@ -86,6 +86,7 @@ a:hover{
     background-color: white;
     padding-left: 10%;
     padding-right: 11%;
+    height: 40%;
 }
 .tshirt{
     background-color: #f2f2f2;
@@ -118,5 +119,5 @@ a:hover{
     padding-bottom: 9.28%;
 }
 .backpack:hover{
-    
+    border: 5px solid #b2ad89;
 }
