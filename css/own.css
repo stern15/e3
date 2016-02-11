@@ -46,3 +46,9 @@ a:hover{
     padding-left: 35%;
     padding-top: 7%;
 }
+.button{
+    margin-top: 10%;
+    border:solid 2px #6c1717;
+    text-transform: uppercase;
+    background-color: #6c1717;
+}
