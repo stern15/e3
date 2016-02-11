@@ -84,4 +84,39 @@ a:hover{
 /*--------------------section 4--------------------------*/
 .section4{
     background-color: white;
+    padding-left: 10%;
+    padding-right: 11%;
+}
+.tshirt{
+    background-color: #f2f2f2;
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 7%;
+    padding-top: 7%;
+    padding-bottom: 11.6%;
+}
+.tshirt:hover{
+    border: 5px solid #b2ad89;
+}
+.pants{
+    background-color: #f2f2f2;
+    margin-left: 4%;
+    padding-left: 9%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    width: 30%;
+}
+.pants:hover{
+    border: 5px solid #b2ad89;
+}
+.backpack{
+    background-color: #f2f2f2;
+    width: 30%;
+    margin-left: 4%;
+    padding-left: 6%;
+    padding-top: 7%;
+    padding-bottom: 9.28%;
+}
+.backpack:hover{
+    
 }
