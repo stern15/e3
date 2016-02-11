@@ -52,3 +52,7 @@ a:hover{
     text-transform: uppercase;
     background-color: #6c1717;
 }
+.button:hover{
+    background-color: #6c1717;
+}
+/*--------------------section 3----------------------*/
