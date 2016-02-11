@@ -95,6 +95,7 @@ a:hover {
     padding-right: 11%;
     height: 40%;
 }
+/*=================tshirt=================*/
 .tshirt {
     background-color: #f2f2f2;
     width: 30%;
@@ -102,6 +103,7 @@ a:hover {
     padding-left: 7%;
     padding-top: 7%;
     padding-bottom: 9%;
+    position: relative;
 }
 .tshirt:hover {
     border: 5px solid #b2ad89;
@@ -114,14 +116,36 @@ a:hover {
 .tshirt a{
     color: black;
 }
+.green {
+    width: 20px;
+    height: 20px;
+    border: 2px solid green;
+    border-radius: 50%;
+    background-color: green;
+    margin-top: -16%;
+    margin-left: 45%;
+    position: absolute;
+}
 .blue {
     width: 20px;
     height: 20px;
     border: 2px solid blue;
     border-radius: 50%;
     background-color: blue;
+    margin-top: -16%;
+    margin-left: 54%;
+    position: absolute;
 }
-
+.dark {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #483e3b;
+    border-radius: 50%;
+    background-color: #483e3b;
+    margin-top: -16%;
+    margin-left: 63%;
+    position: absolute;
+}
 .pants {
     background-color: #f2f2f2;
     margin-left: 4%;
