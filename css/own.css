@@ -72,10 +72,10 @@ a:hover {
     margin-top: 3%;
     padding-left: 12%;
 }
-.line {
+.lineM {
     margin-top: 2.5%;
 }
-.pageno {
+.pagenoM {
     float: right;
     color: #b2ad89;
     font-weight: bold;
@@ -228,14 +228,21 @@ a:hover {
     padding-right: 10%;
     padding-top: 3%;
 }
-.men {
+.women {
     margin-top: 3%;
-    padding-left: 12%;
+    margin-right: -10%;
 }
 
-
-
-
+.lineW {
+    padding-left: 3%;
+    margin-left: 9%;
+    margin-top: 2.4%;
+}
+.pagenoW {
+    float: left;
+    color: #b2ad89;
+    font-weight: bold;
+}
 
 
 
