@@ -191,6 +191,7 @@ a:hover {
     font-size: 25px;
     color: #b2ad89;
 }
+
 /*====================backpack======================*/
 
 .backpack {
@@ -221,7 +222,9 @@ a:hover {
     font-size: 25px;
     color: #b2ad89;
 }
+
 /*--------------------section 5-------------------------*/
+
 .section5 {
     background-color: white;
     height: 20%;
@@ -232,7 +235,6 @@ a:hover {
     margin-top: 3%;
     margin-right: -10%;
 }
-
 .lineW {
     padding-left: 3%;
     margin-left: 9%;
@@ -243,53 +245,45 @@ a:hover {
     color: #b2ad89;
     font-weight: bold;
 }
+
 /*---------------------section 6----------------------*/
+
 .section6 {
     background-color: white;
     padding-left: 10%;
     padding-right: 11%;
     height: 40%;
 }
-.giacket
 
+/*====================giacket==========================*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.giacket {
+    background-color: #f2f2f2;
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 6%;
+    padding-top: 7%;
+    position: relative;
+}
+.giacket:hover {
+    border: 5px solid #b2ad89;
+}
+.sizegia {
+    margin-top: -25%;
+    margin-left: -18%;
+    font-size: 25px;
+}
+.giacket a {
+    color: black;
+}
+.Textgia {
+    margin-top: 16%;
+    margin-left: -18%;
+    font-size: 25px;
+    color: #b2ad89;
+}
+.prizegia {
+    margin-left: 70%;
+    margin-top: -27.2%;
+    font-size: 25px;
+}
