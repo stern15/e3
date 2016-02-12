@@ -178,7 +178,7 @@ a:hover {
     font-size: 25px;
 }
 .prizePants {
-    margin-top: -30%;
+    margin-top: -30.5%;
     margin-left: 60%;
     font-size: 25px;
 }
@@ -200,7 +200,24 @@ a:hover {
     padding-left: 6%;
     padding-top: 7%;
     padding-bottom: 9.28%;
+    color: black;
 }
 .backpack:hover {
     border: 5px solid #b2ad89;
+}
+.sizebp {
+    margin-top: -27%;
+    margin-left: -30%;
+    font-size: 25px;
+}
+.prizebp {
+    margin-top: -30.5%;
+    margin-left: 60%;
+    font-size: 25px;
+}
+.bpText {
+    margin-top: -6%;
+    margin-left: -37%;
+    font-size: 25px;
+    color: #b2ad89;
 }
