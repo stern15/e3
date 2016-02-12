@@ -95,25 +95,26 @@ a:hover {
     padding-right: 11%;
     height: 40%;
 }
+
 /*=================tshirt=================*/
+
 .tshirt {
     background-color: #f2f2f2;
     width: 30%;
     margin-left: 1%;
     padding-left: 7%;
     padding-top: 7%;
-    padding-bottom: 9%;
     position: relative;
 }
 .tshirt:hover {
     border: 5px solid #b2ad89;
 }
-.size {
+.sizeT-shirt {
     margin-top: -25%;
     margin-left: -18%;
     font-size: 25px;
 }
-.tshirt a{
+.tshirt a {
     color: black;
 }
 .green {
@@ -146,17 +147,46 @@ a:hover {
     margin-left: 63%;
     position: absolute;
 }
+.tshirtText {
+    margin-top: 16%;
+    margin-left: -18%;
+    font-size: 25px;
+    color: #b2ad89;
+}
+.prizeT-shirt {
+    margin-left: 70%;
+    margin-top: -27.2%;
+    font-size: 25px;
+}
+
+/*=====================Pants=======================*/
+
 .pants {
     background-color: #f2f2f2;
     margin-left: 4%;
     padding-left: 9%;
     padding-top: 7%;
-    padding-bottom: 7%;
+    padding-bottom: 5.7%;
     width: 30%;
 }
 .pants:hover {
     border: 5px solid #b2ad89;
 }
+.sizePants {
+    margin-top: -6%;
+    margin-left: 60%;
+    font-size: 25px;
+}
+.prizePants {
+    margin-top: -28%;
+    margin-left: -26%;
+    font-size: 25px;
+}
+.pants a {
+    color: black;
+}
+/*====================backpack======================*/
+
 .backpack {
     background-color: #f2f2f2;
     width: 30%;
