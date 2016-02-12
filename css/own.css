@@ -375,8 +375,12 @@ a:hover {
 
 /*------------------------section 7----------------------*/
 
-
-
+.section7 {
+    background-image: url()
+    padding-left: 10%;
+    padding-right: 11%;
+    height: 40%;
+}
 
 
 
