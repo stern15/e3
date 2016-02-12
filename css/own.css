@@ -320,11 +320,59 @@ a:hover {
     margin-left: 61%;
     font-size: 25px;
 }
+/*======================T-shirtW=====================*/
 
 
-
-
-
+.tshirtW {
+    background-color: #f2f2f2;
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 7%;
+    padding-top: 7%;
+    position: relative;
+}
+.tshirtW:hover {
+    border: 5px solid #b2ad89;
+}
+.sizeT-shirtW {
+    margin-top: -25%;
+    margin-left: -18%;
+    font-size: 25px;
+}
+.tshirtW a {
+    color: black;
+}
+.blush {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #dfaeae;
+    border-radius: 50%;
+    background-color: #dfaeae;
+    margin-top: -16%;
+    margin-left: 45%;
+    position: absolute;
+}
+.white {
+    width: 20px;
+    height: 20px;
+    border: 2px solid white;
+    border-radius: 50%;
+    background-color: white;
+    margin-top: -16%;
+    margin-left: 54%;
+    position: absolute;
+}
+.tshirtWText {
+    margin-top: 16%;
+    margin-left: -18%;
+    font-size: 25px;
+    color: #b2ad89;
+}
+.prizeT-shirtW {
+    margin-left: 70%;
+    margin-top: -28.2%;
+    font-size: 25px;
+}
 
 
 
