@@ -244,7 +244,12 @@ a:hover {
     font-weight: bold;
 }
 /*---------------------section 6----------------------*/
-
+.section6 {
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 11%;
+    height: 40%;
+}
 
 
 
