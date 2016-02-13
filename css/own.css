@@ -47,7 +47,7 @@ a:hover {
     height: 10%;
 }
 .cheWrapper {
-    padding-left: 35%;
+    padding-left: 29%;
     padding-top: 7%;
 }
 .button {
@@ -378,59 +378,9 @@ a:hover {
 .section7 {
     background-image: url("/Users/semasuka/e3/img/about.jpg");
     background-size: cover;
+    height: 38%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*------------------------section 8-----------------------*/
