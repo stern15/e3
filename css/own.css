@@ -414,8 +414,15 @@ h4{
     margin-top: 7%;
     position: absolute;
 }
-
-
+.socialLogo{
+    padding-top: 8%;
+    padding-left: 18%;
+    margin-top: -5%;
+}
+h5{
+    padding-top: 7%;
+    padding-left: 36%;
+}
 
 
 
