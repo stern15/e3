@@ -383,65 +383,60 @@ a:hover {
     color: white;
     font-size: 25px;
 }
+
 /*------------------------section 8-----------------------*/
-.section8{
-    color:white;
-    background-color:dimgray;
+
+.section8 {
+    color: white;
+    background-color: dimgray;
     font-size: 20px;
     height: 5%;
 }
-
-.sales{
+.sales {
     padding-top: 0.5%;
     padding-left: 5%;
 }
 
 /*-----------------------section 9-----------------------*/
 
-.section9{
+.section9 {
     background-color: #383838;
     height: 30%;
     color: white;
     position: relative;
 }
-.WeAre{
+.WeAre {
     text-transform: uppercase;
     padding-left: 29%;
     padding-top: 35%;
 }
-h4{
+h4 {
     padding-left: 10%;
     margin-top: 7%;
     position: absolute;
 }
-.socialLogo{
+.socialLogo {
     padding-top: 8%;
     padding-left: 18%;
     margin-top: -5%;
 }
-h5{
+h5 {
     padding-top: 7%;
     padding-left: 36%;
 }
-.footer{
+.footer {
     text-transform: uppercase;
     padding-left: 26%;
     margin-top: 16%;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.credits{
+    font-size: 20px;
+    padding-top: 10%;
+}
+.bar {
+    color: #b2ad89;
+}
+.last{
+    padding-left: 10%;
+    padding-top: 0%;
+}
