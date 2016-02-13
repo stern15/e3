@@ -384,10 +384,19 @@ a:hover {
     font-size: 25px;
 }
 /*------------------------section 8-----------------------*/
+.section8{
+    color:white;
+    background-color:dimgray;
+    font-size: 20px;
+    height: 5%;
+}
 
+.sales{
+    padding-top: 0.5%;
+    padding-left: 5%;
+}
 
-
-
+/*-----------------------section 9-----------------------*/
 
 
 
