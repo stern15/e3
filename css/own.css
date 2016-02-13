@@ -252,7 +252,7 @@ a:hover {
     background-color: white;
     padding-left: 10%;
     padding-right: 11%;
-    height: 40%;
+    height: 50%;
 }
 
 /*====================giacket==========================*/
@@ -376,10 +376,8 @@ a:hover {
 /*------------------------section 7----------------------*/
 
 .section7 {
-    background-image: url()
-    padding-left: 10%;
-    padding-right: 11%;
-    height: 40%;
+    background-image: url("/Users/semasuka/e3/img/about.jpg");
+    background-size: cover;
 }
 
 
