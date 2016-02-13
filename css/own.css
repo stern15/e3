@@ -398,10 +398,22 @@ a:hover {
 
 /*-----------------------section 9-----------------------*/
 
-
-
-
-
+.section9{
+    background-color: #383838;
+    height: 30%;
+    color: white;
+    position: relative;
+}
+.WeAre{
+    text-transform: uppercase;
+    padding-left: 29%;
+    padding-top: 35%;
+}
+h4{
+    padding-left: 10%;
+    margin-top: 7%;
+    position: absolute;
+}
 
 
 
